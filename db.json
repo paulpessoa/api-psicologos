@@ -1,5 +1,62 @@
 {
   "psicologos": [
+     {
+      "id": "8ca23943-702f-4836-87f5-1eff1bac85bbd",
+      "firstName": "Rafaelli",
+      "lastName": "Cadó",
+      "nickName": "Ângela Cruz de Souza Melquíades",
+      "bio": "Olá, sou a Ângela, psicóloga com foco na abordagem comportamental. Meu objetivo é auxiliar você a se reconectar consigo mesmo, com zelo e dedicação, visando suas emoções e necessidades, para alcançar uma vida mais plena e satisfatória. Vamos juntos em busca do seu bem-estar emocional e mental?",
+      "avatarUrl": "https://thispersondoesnotexist.com",
+      "gender": "FEMALE",
+      "sessionPrice": 200,
+      "crp": "06/170123",
+      "specialization": "Especialização em psicopatologia",
+      "montlyPrice": 800,
+      "professionalContact": [
+        {
+          "id": "cd8d25dd-b018-4bd6-a865-40dc2695873a",
+          "type": "PHONE",
+          "value": "5599989988"
+        },
+        {
+          "id": "b365f56d-9913-4c1a-88d3-e8251925f608",
+          "type": "EMAIL",
+          "value": "teste@psidofuturo.com.br"
+        }
+      ],
+      "anamnesis": [
+        {
+          "id": "9b0a1d2f-1e7f-42b2-8e9f-7f8b1e2d3c4d",
+          "name": "Estresse Pós-Traumático"
+        },
+        {
+          "id": "f2e1d6c7-8b5a-4c4d-9f2a-3e7c8f1b9a2e",
+          "name": "Transtorno Alimentar"
+        },
+        {
+          "id": "bcf8f8e9-c2d9-4b3e-b4c1-86ad54f3e0c8",
+          "name": "Transtorno Bipolar"
+        },
+        {
+          "id": "28d0f5e2-4f5a-4d58-bc8c-e8b8f7e1e0dc",
+          "name": "Esquizofrenia"
+        },
+        {
+          "id": "b7e4a6f5-1c2d-4f3b-8a7b-9e2f1b5c6d7e",
+          "name": "Ansiedade Generalizada"
+        }
+      ],
+      "ProfessionalCarreerTrail": [
+        {
+          "id": "d1f3c72b-30b2-4b8c-a88f-bb5b2ed0767f",
+          "name": "Pós-Graduado em Neurociência"
+        },
+        {
+          "id": "d1f3c72b-30b2-4b8c-a88f-bb5b2ed0767f",
+          "name": "Bacharelado em Psicologia"
+        }
+      ]
+    },
     {
       "id": "8ca23943-702f-48f6-87f5-1effbac85bbd",
       "firstName": "Rafaelli",
